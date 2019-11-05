@@ -1,2 +1,2 @@
 # cursoemvideo
-Python studies from Curso em Vídeo, by Guanabara.
+Python course from Curso em Vídeo, by Gustavo Guanabara (Youtube).
